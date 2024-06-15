@@ -16,11 +16,11 @@ In this project for the ForestNav Challenge, we aim to address the data processi
 - This project is provided "as is", without any warranty of any kind. The authors are not responsible for any damages or issues that may arise from using this project.
 
 **Authors:**
-- [Cigna Giulia,
-- Hemmatian Bojnordi Reza,
-- Prus Patryk Bartlomiej,
-- Ricci Cecilia,
-- Roumianfar Sarvnazsadat]
+- Cigna Giulia
+- Hemmatian Bojnordi Reza
+- Prus Patryk Bartlomiej
+- Ricci Cecilia
+- Roumianfar Sarvnazsadat
 
 **References:**
 - Stereolabs ZED Camera

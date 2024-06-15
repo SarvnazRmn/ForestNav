@@ -16,10 +16,10 @@ In this project for the ForestNav Challenge, we aim to address the data processi
 - This project is provided "as is", without any warranty of any kind. The authors are not responsible for any damages or issues that may arise from using this project.
 
 **Authors:**
-- [Cigna Giulia
-HEMMATIAN BOJNORDI REZA
-Prus Patryk Bartlomiej
-RICCI CECILIA
+- [Cigna Giulia, 
+HEMMATIAN BOJNORDI REZA, 
+Prus Patryk Bartlomiej, 
+RICCI CECILIA, 
 Roumianfar Sarvnazsadat]
 
 **References:**

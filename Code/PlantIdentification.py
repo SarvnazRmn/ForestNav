@@ -3,10 +3,10 @@ import json
 import pandas as pd
 import os
 
-API_KEY = "2b10FEWGdwSqpUraKhBaKQzhO"
+API_KEY = " "
 API_ENDPOINT = "https://my-api.plantnet.org/v2/identify/all"
-image_path_1 = "C:/Users/ADMIN/Desktop/challenge/images/IMG_20240424_161323.jpg"
-image_path_2 = "C:/Users/ADMIN/Desktop/challenge/images/IMG_20240424_161720.jpg"
+image_path_1 = "images/IMG_20240424_161323.jpg"
+image_path_2 = "images/IMG_20240424_161720.jpg"
 
 # Open image files
 with open(image_path_1, 'rb') as image_file_1, open(image_path_2, 'rb') as image_file_2:
